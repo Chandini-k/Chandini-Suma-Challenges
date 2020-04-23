@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\bin\Debug\SwapNodesAlgo.exe.config
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\bin\Debug\SwapNodesAlgo.exe
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\bin\Debug\SwapNodesAlgo.pdb
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\obj\Debug\SwapNodesAlgo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\obj\Debug\SwapNodesAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\obj\Debug\SwapNodesAlgo.exe
+C:\Users\Administrator\source\repos\SwapNodesAlgo\SwapNodesAlgo\obj\Debug\SwapNodesAlgo.pdb
